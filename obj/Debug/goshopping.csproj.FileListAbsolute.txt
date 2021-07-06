@@ -1,0 +1,660 @@
+D:\vs2019\goshopping\goshopping\bin\goshopping.dll.config
+D:\vs2019\goshopping\goshopping\bin\goshopping.dll
+D:\vs2019\goshopping\goshopping\bin\goshopping.pdb
+D:\vs2019\goshopping\goshopping\bin\roslyn\csc.exe
+D:\vs2019\goshopping\goshopping\bin\roslyn\csc.exe.config
+D:\vs2019\goshopping\goshopping\bin\roslyn\csc.rsp
+D:\vs2019\goshopping\goshopping\bin\roslyn\csi.exe
+D:\vs2019\goshopping\goshopping\bin\roslyn\csi.exe.config
+D:\vs2019\goshopping\goshopping\bin\roslyn\csi.rsp
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.Managed.Core.targets
+D:\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.AppContext.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Collections.Immutable.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Console.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.IO.Compression.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.IO.Pipes.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.AccessControl.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Claims.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Principal.Windows.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.ValueTuple.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.XPath.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vs2019\goshopping\goshopping\bin\roslyn\vbc.exe
+D:\vs2019\goshopping\goshopping\bin\roslyn\vbc.exe.config
+D:\vs2019\goshopping\goshopping\bin\roslyn\vbc.rsp
+D:\vs2019\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe
+D:\vs2019\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe.config
+D:\vs2019\goshopping\goshopping\bin\Antlr3.Runtime.dll
+D:\vs2019\goshopping\goshopping\bin\EntityFramework.dll
+D:\vs2019\goshopping\goshopping\bin\EntityFramework.SqlServer.dll
+D:\vs2019\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs2019\goshopping\goshopping\bin\Microsoft.Web.Infrastructure.dll
+D:\vs2019\goshopping\goshopping\bin\Newtonsoft.Json.dll
+D:\vs2019\goshopping\goshopping\bin\PagedList.dll
+D:\vs2019\goshopping\goshopping\bin\PagedList.Mvc.dll
+D:\vs2019\goshopping\goshopping\bin\System.Net.Http.Formatting.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.Helpers.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.Http.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.Http.WebHost.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.Mvc.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.Optimization.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.Razor.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Deployment.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.WebPages.dll
+D:\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Razor.dll
+D:\vs2019\goshopping\goshopping\bin\Web.DemoData.v20.2.dll
+D:\vs2019\goshopping\goshopping\bin\WebGrease.dll
+D:\vs2019\goshopping\goshopping\bin\WebMatrix.Data.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Web.v20.2.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.CodeParser.v20.2.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Data.v20.2.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Printing.v20.2.Core.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Web.ASPxRichEdit.v20.2.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Office.v20.2.Core.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.RichEdit.v20.2.Core.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Pdf.v20.2.Core.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Pdf.v20.2.Drawing.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Web.ASPxSpellChecker.v20.2.dll
+D:\vs2019\goshopping\goshopping\bin\DevExpress.SpellChecker.v20.2.Core.dll
+D:\vs2019\goshopping\goshopping\bin\EntityFramework.xml
+D:\vs2019\goshopping\goshopping\bin\EntityFramework.SqlServer.xml
+D:\vs2019\goshopping\goshopping\bin\PagedList.xml
+D:\vs2019\goshopping\goshopping\bin\PagedList.Mvc.xml
+D:\vs2019\goshopping\goshopping\bin\System.Net.Http.Formatting.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.Http.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.Http.WebHost.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.Helpers.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.Mvc.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.Optimization.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.Razor.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.WebPages.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Deployment.xml
+D:\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Razor.xml
+D:\vs2019\goshopping\goshopping\bin\Newtonsoft.Json.xml
+D:\vs2019\goshopping\goshopping\bin\Antlr3.Runtime.pdb
+D:\vs2019\goshopping\goshopping\bin\WebMatrix.Data.xml
+D:\vs2019\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Web.v20.2.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Data.v20.2.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Printing.v20.2.Core.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Web.ASPxRichEdit.v20.2.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Office.v20.2.Core.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.RichEdit.v20.2.Core.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Pdf.v20.2.Core.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Pdf.v20.2.Drawing.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.Web.ASPxSpellChecker.v20.2.xml
+D:\vs2019\goshopping\goshopping\bin\DevExpress.SpellChecker.v20.2.Core.xml
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\EntityFramework.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Web.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Web.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Web.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Web.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Data.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Data.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Data.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Data.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Web.ASPxRichEdit.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Web.ASPxRichEdit.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Web.ASPxRichEdit.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Web.ASPxRichEdit.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Office.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Office.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Office.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Office.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\vs2019\goshopping\goshopping\bin\de\DevExpress.Web.ASPxSpellChecker.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\es\DevExpress.Web.ASPxSpellChecker.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ja\DevExpress.Web.ASPxSpellChecker.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\bin\ru\DevExpress.Web.ASPxSpellChecker.v20.2.resources.dll
+D:\vs2019\goshopping\goshopping\obj\Debug\goshopping.csproj.CoreCompileInputs.cache
+D:\vs2019\goshopping\goshopping\obj\Debug\goshopping.csproj.CopyComplete
+D:\vs2019\goshopping\goshopping\obj\Debug\goshopping.dll
+D:\vs2019\goshopping\goshopping\obj\Debug\goshopping.pdb
+D:\johnson\vs2019\goshopping\goshopping\bin\goshopping.dll.config
+D:\johnson\vs2019\goshopping\goshopping\bin\goshopping.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\goshopping.pdb
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\csc.exe
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\csc.exe.config
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\csc.rsp
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\csi.exe
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\csi.exe.config
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\csi.rsp
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.Managed.Core.targets
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.AppContext.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Collections.Immutable.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Console.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.IO.Compression.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.IO.Pipes.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.AccessControl.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Claims.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Security.Principal.Windows.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.ValueTuple.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.XmlDocument.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.XPath.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\vbc.exe
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\vbc.exe.config
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\vbc.rsp
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe
+D:\johnson\vs2019\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe.config
+D:\johnson\vs2019\goshopping\goshopping\bin\Antlr3.Runtime.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\EntityFramework.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\EntityFramework.SqlServer.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\Microsoft.Web.Infrastructure.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\Newtonsoft.Json.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\PagedList.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\PagedList.Mvc.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Net.Http.Formatting.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Helpers.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Http.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Http.WebHost.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Mvc.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Optimization.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Razor.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Deployment.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.WebPages.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Razor.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\WebGrease.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\WebMatrix.Data.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\EntityFramework.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\EntityFramework.SqlServer.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\PagedList.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\PagedList.Mvc.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Net.Http.Formatting.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Http.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Http.WebHost.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Helpers.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Mvc.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Optimization.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.Razor.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.WebPages.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Deployment.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\System.Web.WebPages.Razor.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\Newtonsoft.Json.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\Antlr3.Runtime.pdb
+D:\johnson\vs2019\goshopping\goshopping\bin\WebMatrix.Data.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\EntityFramework.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\johnson\vs2019\goshopping\goshopping\obj\Debug\goshopping.csproj.CoreCompileInputs.cache
+D:\johnson\vs2019\goshopping\goshopping\obj\Debug\goshopping.csproj.CopyComplete
+D:\johnson\vs2019\goshopping\goshopping\obj\Debug\goshopping.dll
+D:\johnson\vs2019\goshopping\goshopping\obj\Debug\goshopping.pdb
+D:\vs2019\goshopping\goshopping\obj\Debug\goshopping.csprojAssemblyReference.cache
+D:\johnson\vs2019\goshopping\goshopping\obj\Debug\goshopping.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\goshopping\goshopping\bin\goshopping.dll.config
+C:\Users\USER\Desktop\goshopping\goshopping\bin\goshopping.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\goshopping.pdb
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\csc.exe.config
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\csc.rsp
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\csi.exe
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\csi.exe.config
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\csi.rsp
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Console.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\vbc.exe.config
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\vbc.rsp
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\EntityFramework.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\PagedList.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\PagedList.Mvc.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\WebGrease.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\WebMatrix.Data.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\EntityFramework.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\PagedList.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\PagedList.Mvc.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\goshopping\goshopping\bin\WebMatrix.Data.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\goshopping\goshopping\obj\Debug\goshopping.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\goshopping\goshopping\obj\Debug\goshopping.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\goshopping\goshopping\obj\Debug\goshopping.csproj.CopyComplete
+C:\Users\USER\Desktop\goshopping\goshopping\obj\Debug\goshopping.dll
+C:\Users\USER\Desktop\goshopping\goshopping\obj\Debug\goshopping.pdb
+D:\visual studio\goshopping\goshopping\bin\goshopping.dll.config
+D:\visual studio\goshopping\goshopping\bin\goshopping.dll
+D:\visual studio\goshopping\goshopping\bin\goshopping.pdb
+D:\visual studio\goshopping\goshopping\bin\roslyn\csc.exe
+D:\visual studio\goshopping\goshopping\bin\roslyn\csc.exe.config
+D:\visual studio\goshopping\goshopping\bin\roslyn\csc.rsp
+D:\visual studio\goshopping\goshopping\bin\roslyn\csi.exe
+D:\visual studio\goshopping\goshopping\bin\roslyn\csi.exe.config
+D:\visual studio\goshopping\goshopping\bin\roslyn\csi.rsp
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual studio\goshopping\goshopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.AppContext.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Console.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.IO.Compression.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.IO.Pipes.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.AccessControl.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.Claims.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Security.Principal.Windows.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.ValueTuple.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Xml.XPath.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual studio\goshopping\goshopping\bin\roslyn\vbc.exe
+D:\visual studio\goshopping\goshopping\bin\roslyn\vbc.exe.config
+D:\visual studio\goshopping\goshopping\bin\roslyn\vbc.rsp
+D:\visual studio\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe
+D:\visual studio\goshopping\goshopping\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio\goshopping\goshopping\bin\Antlr3.Runtime.dll
+D:\visual studio\goshopping\goshopping\bin\EntityFramework.dll
+D:\visual studio\goshopping\goshopping\bin\EntityFramework.SqlServer.dll
+D:\visual studio\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio\goshopping\goshopping\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio\goshopping\goshopping\bin\Newtonsoft.Json.dll
+D:\visual studio\goshopping\goshopping\bin\PagedList.dll
+D:\visual studio\goshopping\goshopping\bin\PagedList.Mvc.dll
+D:\visual studio\goshopping\goshopping\bin\System.Net.Http.Formatting.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.Helpers.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.Http.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.Http.WebHost.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.Mvc.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.Optimization.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.Razor.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.WebPages.dll
+D:\visual studio\goshopping\goshopping\bin\System.Web.WebPages.Razor.dll
+D:\visual studio\goshopping\goshopping\bin\WebGrease.dll
+D:\visual studio\goshopping\goshopping\bin\WebMatrix.Data.dll
+D:\visual studio\goshopping\goshopping\bin\EntityFramework.xml
+D:\visual studio\goshopping\goshopping\bin\EntityFramework.SqlServer.xml
+D:\visual studio\goshopping\goshopping\bin\PagedList.xml
+D:\visual studio\goshopping\goshopping\bin\PagedList.Mvc.xml
+D:\visual studio\goshopping\goshopping\bin\System.Net.Http.Formatting.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.Http.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.Http.WebHost.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.Helpers.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.Mvc.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.Optimization.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.Razor.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.WebPages.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio\goshopping\goshopping\bin\System.Web.WebPages.Razor.xml
+D:\visual studio\goshopping\goshopping\bin\Newtonsoft.Json.xml
+D:\visual studio\goshopping\goshopping\bin\Antlr3.Runtime.pdb
+D:\visual studio\goshopping\goshopping\bin\WebMatrix.Data.xml
+D:\visual studio\goshopping\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\EntityFramework.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\visual studio\goshopping\goshopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\visual studio\goshopping\goshopping\obj\Debug\goshopping.csprojAssemblyReference.cache
+D:\visual studio\goshopping\goshopping\obj\Debug\goshopping.csproj.CoreCompileInputs.cache
+D:\visual studio\goshopping\goshopping\obj\Debug\goshopping.csproj.CopyComplete
+D:\visual studio\goshopping\goshopping\obj\Debug\goshopping.dll
+D:\visual studio\goshopping\goshopping\obj\Debug\goshopping.pdb
+D:\visual studio\goshopping - 複製\goshopping\bin\goshopping.dll.config
+D:\visual studio\goshopping - 複製\goshopping\bin\goshopping.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\goshopping.pdb
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\csc.exe
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\csc.exe.config
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\csc.rsp
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\csi.exe
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\csi.exe.config
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\csi.rsp
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.AppContext.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Console.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.IO.Compression.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.IO.FileSystem.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.IO.Pipes.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.AccessControl.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.Claims.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Security.Principal.Windows.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.ValueTuple.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Xml.XPath.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\vbc.exe
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\vbc.exe.config
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\vbc.rsp
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\VBCSCompiler.exe
+D:\visual studio\goshopping - 複製\goshopping\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio\goshopping - 複製\goshopping\bin\Antlr3.Runtime.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\EntityFramework.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\EntityFramework.SqlServer.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\Newtonsoft.Json.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\PagedList.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\PagedList.Mvc.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Net.Http.Formatting.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Helpers.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Http.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Http.WebHost.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Mvc.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Optimization.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Razor.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.WebPages.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.WebPages.Razor.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\WebGrease.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\WebMatrix.Data.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\EntityFramework.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\EntityFramework.SqlServer.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\PagedList.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\PagedList.Mvc.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Net.Http.Formatting.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Http.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Http.WebHost.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Helpers.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Mvc.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Optimization.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.Razor.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.WebPages.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\System.Web.WebPages.Razor.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\Newtonsoft.Json.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\Antlr3.Runtime.pdb
+D:\visual studio\goshopping - 複製\goshopping\bin\WebMatrix.Data.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\EntityFramework.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\visual studio\goshopping - 複製\goshopping\obj\Debug\goshopping.csproj.CoreCompileInputs.cache
+D:\visual studio\goshopping - 複製\goshopping\obj\Debug\goshopping.csproj.CopyComplete
+D:\visual studio\goshopping - 複製\goshopping\obj\Debug\goshopping.dll
+D:\visual studio\goshopping - 複製\goshopping\obj\Debug\goshopping.pdb
+D:\visual studio\goshopping - 複製\goshopping\obj\Debug\goshopping.csprojAssemblyReference.cache
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\goshopping.dll.config
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\goshopping.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\goshopping.pdb
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\csc.exe
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\csc.exe.config
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\csc.rsp
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\csi.exe
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\csi.exe.config
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\csi.rsp
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.AppContext.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Console.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.IO.Compression.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.IO.FileSystem.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.IO.Pipes.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.AccessControl.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.Claims.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Security.Principal.Windows.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.ValueTuple.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Xml.XPath.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\vbc.exe
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\vbc.exe.config
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\vbc.rsp
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\VBCSCompiler.exe
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Antlr3.Runtime.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\EntityFramework.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\EntityFramework.SqlServer.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Newtonsoft.Json.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\PagedList.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\PagedList.Mvc.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Net.Http.Formatting.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Helpers.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Http.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Http.WebHost.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Mvc.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Optimization.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Razor.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.WebPages.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.WebPages.Razor.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\WebGrease.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\WebMatrix.Data.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\EntityFramework.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\EntityFramework.SqlServer.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\PagedList.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\PagedList.Mvc.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Net.Http.Formatting.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Http.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Http.WebHost.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Helpers.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Mvc.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Optimization.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.Razor.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.WebPages.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\System.Web.WebPages.Razor.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Newtonsoft.Json.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Antlr3.Runtime.pdb
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\WebMatrix.Data.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\EntityFramework.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\obj\Debug\goshopping.csproj.CoreCompileInputs.cache
+D:\visual studio\goshopping - 複製 - 複製\goshopping\obj\Debug\goshopping.csproj.CopyComplete
+D:\visual studio\goshopping - 複製 - 複製\goshopping\obj\Debug\goshopping.dll
+D:\visual studio\goshopping - 複製 - 複製\goshopping\obj\Debug\goshopping.pdb
+D:\visual studio\goshopping - 複製 - 複製\goshopping\obj\Debug\goshopping.csprojAssemblyReference.cache

@@ -1,0 +1,133 @@
+﻿@using DevStudio;
+@using DevStudio.Securitys
+
+@{
+    Layout = "~/Views/Shared/_LayoutLite.cshtml";
+ }
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="@Shop.AppName" />
+    <meta name="author" content="Johnson" />
+    <title>@ViewBag.Title - @Shop.AppName</title>
+
+    <link href="@Url.Content("~/Content/shop/bootstrap.min.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/shop/shop-homepage.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/shop/bstreeview.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/back-to-top.css")" rel="stylesheet" />
+    <link href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" rel="stylesheet" />
+
+    <script src="@Url.Content("~/Scripts/shop/jquery.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/shop/bootstrap.bundle.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/apps/bstreeview.js")"></script>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" />
+    <link href="@Url.Content("~/Content/fontawesome-all.min.css")" />
+    <script src="@Url.Content("~/Scripts/apps/category-menu.js")"></script>
+    <script src="@Url.Content("~/Scripts/apps/back-to-top.js")"></script>
+
+
+    <style>
+        html {
+            height: 100%;
+        }
+
+        body {
+            background-image: url('../../Images/app/indexbg.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            background-size: cover;
+        }
+        input {
+            border: 0;
+            background-color: #003C9D;
+            color: #fff;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        input:hover {
+            color: #003C9D;
+            background-color: #fff;
+            border: 2px #003C9D solid;
+        }
+
+        .col-md-12 {
+            text-align: center;
+            color:white;
+        }
+    </style>
+
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="/Home/Index">@Shop.AppName</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/Home/Index">
+                            首頁
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    @if (UserAccount.IsLogin)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Product/CartList">購物車(@Cart.Counts)</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("購物車", "Login", "User", null, new { @class = "nav-link" })
+                        </li>
+                    }
+                    @if (UserAccount.IsLogin)
+                    {
+                        <li class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
+                                我的帳號<b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li> @Html.ActionLink("會員專區", "Index", "Member", new { Area = "Member" }, new { @class = "dropdown-item" })</li>
+                                <li> @Html.ActionLink("修改密碼", "ResetPassword", "User", null, new { @class = "dropdown-item" })</li>
+                                <li> @Html.ActionLink("登出系統", "LogOut", "User", null, new { @class = "dropdown-item" })</li>
+                            </ul>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("登入", "Login", "User", null, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("註冊", "Register", "User", null, new { @class = "nav-link" })
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid ">
+        <div class="row justify-content-center align-items-center" style="height: 100%;">
+            <p class="col-md-12 h2" style="margin-top: 20%">Aquarium Maker 打造自己的水族箱</p>
+            <p class="col-md-12 h4">讓家中的一角增添更多色彩吧!</p>          
+            <a href="/Home/ShopIndex">
+                <input type="button" value="Shop Now" name="Shop Store" class="col-md-12 h1" style="margin-top:5px">
+            </a>
+        </div>
+    </div>
+
+
+</body>
+</html> 
